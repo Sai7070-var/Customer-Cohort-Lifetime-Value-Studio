@@ -328,28 +328,28 @@ ecommerce-customer-cohort-ltv-powerbi/
 Power BI screenshot:
 
 ```markdown
-![Provides a high-level overview of e-commerce performance, focusing on key KPIs such as GMV, AOV, Conversion Rate, and Return Rate. It helps business leaders quickly monitor revenue trends, channel performance, and overall business health.](https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142849.png
+(https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142849.png
 )
 ```
 
 ### Acquisition & Funnel
 
 ```markdown
-![Analyzes the customer acquisition journey from website sessions to orders, with a focus on conversion performance. It provides insights into traffic sources, devices, sessions, conversion, and CAC to identify opportunities for improving customer acquisition.](<img width="1384" height="773" alt="Screenshot 2026-08-20 142916" src="https://github.com/user-attachments/assets/144511b1-bb5e-41c0-b008-63bb3a926eb8" />
+(https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142916.png
 )
 ```
 
 ### Merchandising Performance
 
 ```markdown
-![Evaluates product and category performance to identify top-performing products, categories, and return reasons. The dashboard uses Treemap and Pareto analysis to help merchandising teams understand revenue contribution and product performance.](<img width="1386" height="779" alt="Screenshot 2026-08-20 142930" src="https://github.com/user-attachments/assets/e4c054af-6b7e-404d-808a-c137a7fbc544" />
+!(<img width="1386" height="779" alt="Screenshot 2026-08-20 142930" src="https://github.com/user-attachments/assets/e4c054af-6b7e-404d-808a-c137a7fbc544" />
 )
 ```
 
 ### Customer Cohort & LTV
 
 ```markdown
-![Analyzes customer retention, repeat purchases, cohort performance, and Customer Lifetime Value (CLV). The dashboard helps identify valuable customer segments and understand how customer value and retention change across cohorts and channels.](<img width="1373" height="775" alt="Screenshot 2026-08-20 142946" src="https://github.com/user-attachments/assets/14cdd45a-45b8-4122-bce5-433ed641415d" />
+!(<img width="1373" height="775" alt="Screenshot 2026-08-20 142946" src="https://github.com/user-attachments/assets/14cdd45a-45b8-4122-bce5-433ed641415d" />
 )
 ```
 

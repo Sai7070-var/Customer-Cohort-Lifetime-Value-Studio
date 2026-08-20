@@ -342,7 +342,7 @@ Power BI screenshot:
 ### Merchandising Performance
 
 ```markdown
-!(<img width="1386" height="779" alt="Screenshot 2026-08-20 142930" src="https://github.com/user-attachments/assets/e4c054af-6b7e-404d-808a-c137a7fbc544" />
+!(https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142930.png
 )
 ```
 

@@ -349,8 +349,7 @@ Power BI screenshot:
 ### Customer Cohort & LTV
 
 ```markdown
-!(<img width="1373" height="775" alt="Screenshot 2026-08-20 142946" src="https://github.com/user-attachments/assets/14cdd45a-45b8-4122-bce5-433ed641415d" />
-)
+!(https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142946.png)
 ```
 
 
@@ -395,7 +394,7 @@ This project demonstrates practical experience in:
 
 ## 👨‍💻 Author
 
-**Sai**
+**Sai Pipre**
 
 **MBA – Business Analytics**
 

@@ -328,7 +328,7 @@ ecommerce-customer-cohort-ltv-powerbi/
 Add your Power BI screenshot here:
 
 ```markdown
-![Provides a high-level overview of e-commerce performance, focusing on key KPIs such as GMV, AOV, Conversion Rate, and Return Rate. It helps business leaders quickly monitor revenue trends, channel performance, and overall business health.](<img width="1381" height="774" alt="Screenshot 2026-08-20 142849" src="https://github.com/user-attachments/assets/3092c26a-a3fa-4867-87c5-a86488887bb3" />
+![Provides a high-level overview of e-commerce performance, focusing on key KPIs such as GMV, AOV, Conversion Rate, and Return Rate. It helps business leaders quickly monitor revenue trends, channel performance, and overall business health.](https://github.com/Sai7070-var/Customer-Cohort-Lifetime-Value-Studio/blob/main/Screenshot%202026-08-20%20142849.png
 )
 ```
 
